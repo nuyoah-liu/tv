@@ -1,0 +1,18 @@
+#EXTM3U x-tvg-url="http://m3u-ip.tv/demo-epg.php"
+#EXTINF:-1 tvg-id="JustVogueTv.de" tvg-name="JustVogueTv.de" tvg-logo="https://static.wixstatic.com/media/796ff4_3f57885677e44398a2021663b2c01314~mv2.png/v1/fill/w_267,h_249,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/just%20vogue%20kont.png" status="timeout" group-title="Fashion",Just Vogue Tv
+https://tivi191.ozelip.com:3873/stream/play.m3u8
+#EXTINF:-1 tvg-id="MotorVision.de" tvg-name="MotorvisionTV.de" status="timeout" group-title="Sport",Motorvision TV (720p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 tvg-id="RakutenTVComedyMoviesAustria.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" status="online",Rakuten Comedy Movies Austria
+#EXTGRP:Rakuten
+https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMoviesGermany.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" status="online",Rakuten Comedy Movies Germany
+#EXTGRP:Rakuten
+https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="1-2-3.tv" tvg-id="123.tv.de" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/123tv.png",1-2-3.tv
+https://123tv-mx1.flex-cdn.net/index.m3u8
+#EXTINF:0 tvg-id="ATV" tvg-name="ATV" tvg-country="JP" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/a/ac/Logo_QVC_2019.svg/1920px-Logo_QVC_2019.svg.png" group-title="Shopping",QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png" group-title="Sport",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
