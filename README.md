@@ -33,6 +33,8 @@ beesports: https://raw.githubusercontent.com/judy-gotv/iptv/main/beesports.m3u
 
 logo-smart: https://raw.githubusercontent.com/judy-gotv/iptv/main/logo-smart.m3u
 
-http://usb.vampirehk.eu.org/usb.m3u 
+
 smart: https://raw.githubusercontent.com/judy-gotv/iptv/main/smart.m3u
+
+http://usb.vampirehk.eu.org/usb.m3u 
 
